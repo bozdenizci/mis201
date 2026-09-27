@@ -6,3 +6,5 @@ Welcome to MIS201 Class !!
  - git commit
  - git push
 
+# Introduction to Git and GitHub
+Week 2 context 
